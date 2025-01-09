@@ -1,3 +1,8 @@
+git rm -r --cached .config .lesshst Pictures
+# Ignore system junk and personal files
+.config/
+.lesshst
+Pictures/
 # Ignore Chromium Cache and Config Junk
 .cache/
 .config/chromium/
