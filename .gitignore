@@ -1,0 +1,12 @@
+# Ignore Chromium Cache and Config Junk
+.cache/
+.config/chromium/
+.bash_history
+.xsession-errors
+
+# Ignore IDE and System Junk
+*.log
+*.ldb
+*.save
+
+
